@@ -1,0 +1,9 @@
+.env
+*.json
+data/
+node_modules/
+dist/
+__pycache__/
+*.log
+.DS_Store
+.pandora/
